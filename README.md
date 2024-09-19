@@ -12,7 +12,7 @@ The script fetches the current temperature, time, sky conditions, and wind detai
 - Extracts and displays the current temperature, time, and sky conditions for a specified city (in this case, Bhubaneswar).
 - Retrieves the current city based on the user's IP address and displays the weather details for that city from `wttr.in`.
 
-## Dependencies
+## Dependencies 
 
 To run this script, you need the following Python libraries:
 - `requests`: For sending HTTP requests to retrieve weather and location data.
@@ -22,9 +22,3 @@ You can install the required dependencies by running the following command:
 
 ```bash
 pip install requests beautifulsoup4
-
-
-## Acknowledgement
-### Notes:
-- The README file explains the script's functionality, dependencies, and how to run it.
-- It includes instructions for customizing the city for scraping weather data.
