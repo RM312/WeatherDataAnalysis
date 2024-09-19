@@ -24,7 +24,7 @@ You can install the required dependencies by running the following command:
 pip install requests beautifulsoup4
 
 
-
+## Acknowledgement
 ### Notes:
 - The README file explains the script's functionality, dependencies, and how to run it.
 - It includes instructions for customizing the city for scraping weather data.
